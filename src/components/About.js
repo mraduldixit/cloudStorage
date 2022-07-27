@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import DP from "./OwnDP.png";
+import DP from "./OwnDP.jpeg";
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithubSquare } from "react-icons/fa";
 
