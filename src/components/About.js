@@ -15,17 +15,16 @@ const About = () => {
           <div className="content">
             <h1>Mradul Dixit</h1>
             <p>
-              I am currently pursuing my Bachelors in Information Technology
-              Engineering from Institute of Engineering and Technology.I am an
-              enthusiast Sports Programmer and Web developer with knowledge of
+            I am Mradul a final year student pursuing B.Tech in IT from IET Lucknow. 
+            I am an enthusiast Sports Programmer and Web developer with knowledge of
               technology like HTML, CSS, JavaScript, React.js, Node.js,
               firebase, MongoDB, Express.js etc.
             </p>
             <p>
-              I like to develop amazing webApps.Currently I am focussing on
+              I like to develop intresting webApps. Currently I am focussing on
               increasing my skills and looking for Good Internship opprtunities.
             </p>
-            <h3>Fullstack Developer and Sport Programmer</h3>
+            <h3>Fullstack Developer and Competitive Coder</h3>
             <div className="socialAbout">
               <a
                 href="https://github.com/mraduldixit"
