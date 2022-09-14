@@ -16,15 +16,15 @@ const About = () => {
             <h1>Mradul Dixit</h1>
             <p>
             I am Mradul a final year student pursuing B.Tech in IT from IET Lucknow. 
-            I am an enthusiast Sports Programmer and Web developer with knowledge of
-              technology like HTML, CSS, JavaScript, React.js, Node.js,
-              firebase, MongoDB, Express.js etc.
+            I am an enthusiast<b> Competitive Programmer</b> and <b>Frontend Web developer </b> with knowledge of
+              technology like <b>HTML, CSS, JavaScript, React.js</b>,
+              firebase for Development as well as I am good in<b> Data Structures and Algorithms</b>.
             </p>
             <p>
               I like to develop intresting webApps. Currently I am focussing on
-              increasing my skills and looking for Good Internship opprtunities.
+              increasing my skills and looking for Good Internship opprtunities and full time role in Software Development field.
             </p>
-            <h3>Fullstack Developer and Competitive Coder</h3>
+            <h3>Frontend Developer and Competitive Coder</h3>
             <div className="socialAbout">
               <a
                 href="https://github.com/mraduldixit"
